@@ -13,6 +13,7 @@ This repository will contain the majoraty of my coding projects and also some of
 - [TEST PAGE4](#test-page4)
 - [TEST PAGE5](#test-page5)
 - [TEST PAGE6](#test-page6)
+ - [Cryptography](Cryptography/README.md)
 
 ## TEST PAGE1
 
